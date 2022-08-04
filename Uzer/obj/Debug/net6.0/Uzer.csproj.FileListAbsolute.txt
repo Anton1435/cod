@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code 1\Uzer\bin\Debug\net6.0\Uzer.exe
+C:\Users\User\Desktop\code 1\Uzer\bin\Debug\net6.0\Uzer.deps.json
+C:\Users\User\Desktop\code 1\Uzer\bin\Debug\net6.0\Uzer.runtimeconfig.json
+C:\Users\User\Desktop\code 1\Uzer\bin\Debug\net6.0\Uzer.dll
+C:\Users\User\Desktop\code 1\Uzer\bin\Debug\net6.0\Uzer.pdb
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\Uzer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\Uzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\Uzer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\Uzer.AssemblyInfo.cs
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\Uzer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\Uzer.dll
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\refint\Uzer.dll
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\Uzer.pdb
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\Uzer.genruntimeconfig.cache
+C:\Users\User\Desktop\code 1\Uzer\obj\Debug\net6.0\ref\Uzer.dll
